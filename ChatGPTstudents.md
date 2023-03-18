@@ -1,4 +1,4 @@
-How can ChatGPT be best used by students?
+## How can ChatGPT be best used by students?
 ChatGPT can be a valuable tool for students in a variety of ways. Here are some suggestions for how students can best use ChatGPT:
 
 Generating ideas: When students are stuck on a writing assignment or struggling to come up with ideas for a project, they can use ChatGPT to generate prompts or suggestions.
